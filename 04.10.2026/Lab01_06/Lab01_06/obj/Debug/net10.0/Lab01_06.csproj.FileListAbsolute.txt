@@ -1,0 +1,16 @@
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\bin\Debug\net10.0\Lab01_06.exe
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\bin\Debug\net10.0\Lab01_06.deps.json
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\bin\Debug\net10.0\Lab01_06.runtimeconfig.json
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\bin\Debug\net10.0\Lab01_06.dll
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\bin\Debug\net10.0\Lab01_06.pdb
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.AssemblyInfoInputs.cache
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.AssemblyInfo.cs
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.csproj.CoreCompileInputs.cache
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.sourcelink.json
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.dll
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\refint\Lab01_06.dll
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.pdb
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.genruntimeconfig.cache
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\ref\Lab01_06.dll
+Z:\Studia\semestr_I\podstawy-programowania\04.10.2026\Lab01_06\Lab01_06\obj\Debug\net10.0\Lab01_06.csproj.Up2Date
