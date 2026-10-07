@@ -14,6 +14,7 @@ namespace polecenie05
             Console.WriteLine("Pole prostokąta wynosi: " + (długość * szerokość));
             Console.WriteLine("Obwód prostokąta wynosi: " + (2 * (długość + szerokość)));
             Console.WriteLine("Przekątna prostokąta wynosi: " + Math.Sqrt(Math.Pow(długość, 2) + Math.Pow(szerokość, 2)));
+
         }
     }
 }
