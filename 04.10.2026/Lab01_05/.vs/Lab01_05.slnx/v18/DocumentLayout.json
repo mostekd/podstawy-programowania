@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "Z:\\Studia\\semestr_I\\podstawy-programowania\\04.10.2026\\Lab01_05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2428B285-06AF-471B-8EFD-2200213F537A}|Lab01_05\\Lab01_05.csproj|z:\\studia\\semestr_i\\podstawy-programowania\\04.10.2026\\lab01_05\\lab01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2428B285-06AF-471B-8EFD-2200213F537A}|Lab01_05\\Lab01_05.csproj|solutionrelative:lab01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700E30BC-FE89-8931-F5F5-6B33C3049EDC}|Lab01_05\\Lab01_05.csproj|z:\\studia\\semestr_i\\podstawy-programowania\\04.10.2026\\lab01_05\\lab01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700E30BC-FE89-8931-F5F5-6B33C3049EDC}|Lab01_05\\Lab01_05.csproj|solutionrelative:lab01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Lab01_05\\Program.cs",
               "ToolTip": "Z:\\Studia\\semestr_I\\podstawy-programowania\\04.10.2026\\Lab01_05\\Lab01_05\\Program.cs",
               "RelativeToolTip": "Lab01_05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T18:22:22.097Z",
               "EditorCaption": ""
